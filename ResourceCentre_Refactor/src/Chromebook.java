@@ -10,7 +10,7 @@ public class Chromebook extends Item{
 	public String getOs() {
 		return os;
 	}
-	
+	//String toString()
 	public String toString(){
 		// Write your codes here
 		String output = super.toString();
